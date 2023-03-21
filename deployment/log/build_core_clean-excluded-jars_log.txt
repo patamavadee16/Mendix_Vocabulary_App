@@ -1,0 +1,8 @@
+Buildfile: C:\Users\Admin\Mendix\TOEIC Vocabulary-main_3\deployment\build_core.xml
+
+clean-excluded-jars:
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

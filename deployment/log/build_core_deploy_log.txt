@@ -1,0 +1,11 @@
+Buildfile: C:\Users\Admin\Mendix\TOEIC Vocabulary-main_3\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 54 files to C:\Users\Admin\Mendix\TOEIC Vocabulary-main_3\deployment
+     [copy] Copying 40 files to C:\Users\Admin\Mendix\TOEIC Vocabulary-main_3\deployment\model\lib\userlib
+     [copy] Copying 8 files to C:\Users\Admin\Mendix\TOEIC Vocabulary-main_3\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
